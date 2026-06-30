@@ -1,6 +1,6 @@
-# IDataAgent AI - Transform Data into Decisions
+# Praman AI - Upload. Analyze. Visualize. Ask.
 
-IDataAgent AI is an intelligent data assistant that parses structured spreadsheet datasets, computes automated statistical insights, renders dynamic visual charts, and enables natural language interaction with your data using Google's Gemini API (Free Tier).
+Praman AI is an intelligent data assistant that parses structured spreadsheet datasets, computes automated statistical insights, renders dynamic visual charts, and enables natural language interaction with your data using Google's Gemini API (Free Tier).
 
 ## Tech Stack
 - **Backend**: Node.js + Express (ports: 5000)
