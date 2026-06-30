@@ -1,6 +1,6 @@
-# Implementation Plan - IDataAgent AI: Transform Data into Decisions
+# Implementation Plan - Praman AI: Upload. Analyze. Visualize. Ask.
 
-IDataAgent AI is a full-stack, AI-powered data assistant that allows users to upload structured data (CSV/Excel files), preview it, automatically analyze and visualize it with dynamic charts, and query the dataset using natural language powered by the Google Gemini API (Free Tier).
+Praman AI is a full-stack, AI-powered data assistant that allows users to upload structured data (CSV/Excel files), preview it, automatically analyze and visualize it with dynamic charts, and query the dataset using natural language powered by the Google Gemini API (Free Tier).
 
 ## User Review Required
 
